@@ -1,6 +1,6 @@
 # IronVape
 An Luma Plugin for IronFall Invasion [BETA]
-Dont try to Steal codes                          
+Dont try to Steal codes from me and my Helpers.                         
 (Illigal BTW)
 
 # Plugin Creator:                            
