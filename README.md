@@ -1,5 +1,5 @@
 # IronVape
-An Luma Plugin for IronFall Invasion [BETA]
+An Luma Plugin for IronFall Invasion
 Dont try to Steal codes from me and my Helpers.                         
 (Illigal BTW)
 
