@@ -1,16 +1,17 @@
-# IronVape
+# IronVape :                         
 An Luma Plugin for IronFall Invasion
 Dont try to Steal codes from me and my Helpers.                         
-(Illigal BTW)
 
-# Plugin Creator:                            
-SleepyFish                                    
-YouTube : https://youtu.be/Ar55zce7OY8                  
-Discord : https://discord.gg/KpgaCsZxSN         
+# Plugin Creator :                            
+Discord : https://discord.gg/KpgaCsZxSN
+YouTube : https://youtube.com/c/SleepyFish_YT
+GitHub  : https://github.com/SleepyFishYT
 
-# Plugin Helpers                                      
-FooFoo_The_Guy : Functions                   
-Lukas          : Function                       
-PabloMK7       : Functions                   
-Noxii          : Codes                       
-MikeWii        : Steal codes, Bricked N2DsXL
+# Web :
+https://sites.google.com/view/ironvape/start
+
+# Plugin Helpers :                                     
+FooFoo_The_Guy    : Functions                   
+Lukas             : Function                       
+PabloMK7          : Functions                   
+Noxii             : Codes                       
