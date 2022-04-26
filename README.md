@@ -1,18 +1,18 @@
 # IronVape :                         
-An Luma Plugin for IronFall Invasion
-Dont try to Steal codes from me and my Helpers.                         
+A Luma Plugin for IronFall Invasion.
+Don't try to steal code from me, and my Helpers.                         
 
 # Plugin Creator :                            
-Discord : https://discord.gg/KpgaCsZxSN                                                  
-YouTube : https://youtube.com/c/SleepyFish_YT                             
-GitHub   : https://github.com/SleepyFishYT                                   
+[Discord](https://discord.gg/KpgaCsZxSN) :space_invader:                                                  
+[YouTube](https://youtube.com/c/SleepyFish_YT) :heart:                             
+[GitHub](https://github.com/SleepyFishYT) :octocat:                                   
 
 # Web :
 https://sites.google.com/view/ironvape/start
 
 # Plugin Helpers :                                     
-FooFoo_The_Guy    : Functions                   
-Lukas             : Function                       
-PabloMK7          : Functions                   
-Noxii             : Codes                       
+[FoofooTheGuy](https://github.com/FoofooTheGuy) : Functions                   
+[Lukas](https://github.com/?)                   : Function                       
+[PabloMK7](https://github.com/PabloMK7)         : Functions                   
+[Noxii](https://github.com/NoxiiT)              : Codes                       
  
